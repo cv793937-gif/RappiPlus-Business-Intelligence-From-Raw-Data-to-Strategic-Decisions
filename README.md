@@ -56,12 +56,10 @@ Visualización de KPIs, funnel, cohortes y resultados del experimento para toma 
 ## 🖼️ Capturas del dashboard
 
 ### Diagnóstico integral RAPPI
-<img src="./Diagnóstico%20estratégico%20integral%20para%20RappiPlus.pbix" alt="Diagnóstico integral RAPPI" />
+![Diagnóstico integral RAPPI](./Captura%20de%20pantalla%202026-07-28%20180509.png)
 
 ### Detalle / Drill-through
-<img src="./Diagnóstico%20estratégico%20integral%20para%20RappiPlus.pbix" alt="Detalle / Drill-through" />
-
-> Nota: el repositorio no contiene archivos PNG/JPG exportados de las capturas. Si quieres que se vean como imagen real en el README, hay que subir los screenshots a una carpeta como `images/` y referenciarlos desde ahí.
+![Detalle / Drill-through](./Captura%20de%20pantalla%202026-07-28%20180537.png)
 
 ---
 
@@ -73,6 +71,8 @@ RappiPlus-Business-Intelligence/
 ├── README.md
 ├── Diagnóstico estratégico integral para RappiPlus.pbix
 ├── S12 Estudiante_Proyecto_Final (2).ipynb
+├── Captura de pantalla 2026-07-28 180509.png
+├── Captura de pantalla 2026-07-28 180537.png
 └── images/
 ```
 
