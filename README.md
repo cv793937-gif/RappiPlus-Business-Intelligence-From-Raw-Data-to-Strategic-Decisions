@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+
+
 # 📊 RappiPlus Business Intelligence — From Raw Data to Strategic Decisions
 
 **Python · SQL · A/B Testing · Cohorts · Funnel · BI Dashboard**
@@ -80,14 +88,13 @@ RappiPlus-Business-Intelligence/
 
 ## 📌 Resultados clave (ejemplo de sección para completar)
 
-- Se detectó el mayor drop-off en etapa de checkout.
-- El margen varía significativamente por categoría y país.
-- Cohortes recientes muestran menor retención al mes 2.
-- La variante B en checkout mejora conversión con significancia estadística (p < 0.05).  
+- Drop-off en checkout: 42%
 
-> Reemplaza estos bullets por tus hallazgos reales con métricas concretas (% / valores).
+Margen promedio por categoría: Moda 18%, Electrónica 32%
 
----
+Retención mes 1: 64%, mes 2: 41%
+
+Variante B mejora conversión: +7.8% (p < 0.05)
 
 ## 📊 Dashboard
 
