@@ -138,16 +138,15 @@ RappiPlus-Business-Intelligence/
 
 ## 👤 Autor Christian Velazquez 
 
-          __  _
-       .-.'  `; `-._  __
-      (_,         .-:'  `;
-    ,'o"(        (_,         )
-   (__,-'      ,'o"(        )>
-      (       (__,-'      )
-       `-'._.--._(       )
-          ||||  ||`-'._.--._
-         /_/\\__||    ||||  ||
-              /_/\\__/_/\\__||
+          /\  /\ 
+       (  °(  °)
+      /     ⌒  \
+     (  (_____) )
+      \__\___/__/ 
+        /     \
+       /       \
+
+
 
 
 Si trabajas en proyectos de analítica, growth o producto, ¡feliz de conectar!
