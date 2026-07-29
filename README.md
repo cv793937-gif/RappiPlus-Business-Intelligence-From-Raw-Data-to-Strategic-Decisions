@@ -56,10 +56,12 @@ Visualización de KPIs, funnel, cohortes y resultados del experimento para toma 
 ## 🖼️ Capturas del dashboard
 
 ### Diagnóstico integral RAPPI
-![Diagnostico integral RAPPI](images/diagnostico-integral-rappi.png)
+<img src="./Diagnóstico%20estratégico%20integral%20para%20RappiPlus.pbix" alt="Diagnóstico integral RAPPI" />
 
 ### Detalle / Drill-through
-![Detalle / Drill-through](images/detalle-drill-through.png)
+<img src="./Diagnóstico%20estratégico%20integral%20para%20RappiPlus.pbix" alt="Detalle / Drill-through" />
+
+> Nota: el repositorio no contiene archivos PNG/JPG exportados de las capturas. Si quieres que se vean como imagen real en el README, hay que subir los screenshots a una carpeta como `images/` y referenciarlos desde ahí.
 
 ---
 
@@ -69,32 +71,9 @@ Visualización de KPIs, funnel, cohortes y resultados del experimento para toma 
 RappiPlus-Business-Intelligence/
 │
 ├── README.md
-├── images/
-│   ├── diagnostico-integral-rappi.png
-│   └── detalle-drill-through.png
-├── data_raw/
-│   ├── rappiplus_orders_raw.csv
-│   ├── rappiplus_catalog.csv
-│   └── rappiplus_marketing_spend.csv
-├── data_clean/
-│   ├── orders_clean.csv
-│   ├── catalog_clean.csv
-│   └── marketing_clean.csv
-├── notebooks/
-│   ├── 01_data_quality.ipynb
-│   ├── 02_profitability_analysis.ipynb
-│   ├── 03_funnel_sql.ipynb
-│   ├── 04_cohorts_sql.ipynb
-│   └── 05_ab_testing.ipynb
-├── sql/
-│   ├── funnel_analysis.sql
-│   └── cohorts.sql
-├── dashboard/
-│   ├── powerbi.pbix
-│   └── link_publico.txt
-└── docs/
-    ├── resumen_ejecutivo.pdf
-    └── metodologia.md
+├── Diagnóstico estratégico integral para RappiPlus.pbix
+├── S12 Estudiante_Proyecto_Final (2).ipynb
+└── images/
 ```
 
 ---
@@ -159,7 +138,5 @@ RappiPlus-Business-Intelligence/
         /     \
        /       \
   
-
-
 
 Si trabajas en proyectos de analítica, growth o producto, ¡feliz de conectar!
