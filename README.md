@@ -56,10 +56,10 @@ Visualización de KPIs, funnel, cohortes y resultados del experimento para toma 
 ## 🖼️ Capturas del dashboard
 
 ### Diagnóstico integral RAPPI
-![Diagnóstico integral RAPPI](./Captura%20de%20pantalla%202026-07-28%20180509.png)
+![Diagnóstico integral RAPPI](./imagenes/Captura%20de%20pantalla%202026-07-28%20180509.png)
 
 ### Detalle / Drill-through
-![Detalle / Drill-through](./Captura%20de%20pantalla%202026-07-28%20180537.png)
+![Detalle / Drill-through](./imagenes/Captura%20de%20pantalla%202026-07-28%20180537.png)
 
 ---
 
@@ -71,8 +71,9 @@ RappiPlus-Business-Intelligence/
 ├── README.md
 ├── Diagnóstico estratégico integral para RappiPlus.pbix
 ├── S12 Estudiante_Proyecto_Final (2).ipynb
-├── Captura de pantalla 2026-07-28 180509.png
-├── Captura de pantalla 2026-07-28 180537.png
+├── imagenes/
+│   ├── Captura de pantalla 2026-07-28 180509.png
+│   └── Captura de pantalla 2026-07-28 180537.png
 └── images/
 ```
 
