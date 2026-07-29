@@ -53,12 +53,25 @@ Visualización de KPIs, funnel, cohortes y resultados del experimento para toma 
 
 ---
 
+## 🖼️ Capturas del dashboard
+
+### Diagnóstico integral RAPPI
+![Diagnostico integral RAPPI](images/diagnostico-integral-rappi.png)
+
+### Detalle / Drill-through
+![Detalle / Drill-through](images/detalle-drill-through.png)
+
+---
+
 ## 📁 Estructura del repositorio
 
 ```text
 RappiPlus-Business-Intelligence/
 │
 ├── README.md
+├── images/
+│   ├── diagnostico-integral-rappi.png
+│   └── detalle-drill-through.png
 ├── data_raw/
 │   ├── rappiplus_orders_raw.csv
 │   ├── rappiplus_catalog.csv
@@ -145,7 +158,7 @@ RappiPlus-Business-Intelligence/
       \__\___/__/ 
         /     \
        /       \
-
+ 
 
 
 
